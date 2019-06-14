@@ -9,3 +9,6 @@ phases:
   build:
     commands:
       - ember b --environment=production
+artifacts:
+  files:
+    - dist/**/*

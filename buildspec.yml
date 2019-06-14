@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - printenv
+      - npm install -g ember-cli@latest
+      - npm install
+  build:
+    commands:
+      - ember deploy $EMBER_CLI_DEPLOY_TARGET

@@ -10,5 +10,6 @@ phases:
     commands:
       - ember b --environment=production
 artifacts:
+  base-directory: dist
   files:
-    - dist/**/*
+    - **/*

@@ -8,4 +8,4 @@ phases:
       - npm install
   build:
     commands:
-      - ember deploy $EMBER_CLI_DEPLOY_TARGET
+      - ember b --environment=production

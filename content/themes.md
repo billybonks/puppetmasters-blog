@@ -4,7 +4,7 @@ image: /images/design.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 authors:
   - ghost
 date: Tue Jun 12 2018 17:49:21 GMT+0100 (IST)

@@ -23,6 +23,10 @@ module.exports = function(environment) {
       // when it is created
     },
 
+    fastboot: {
+      hostWhitelist: [/^localhost:\d+$/]
+    },
+
     blog: {
       title: 'billybonks.dev',
       description: 'Demo site for empress-blog-dawn-template',
@@ -37,7 +41,7 @@ module.exports = function(environment) {
       removeSourceDir: false,
       justCopy: false,
       extensions: ['jpg', 'jpeg', 'png', 'gif']
-    }
+    },
   };
 
   if (environment === 'development') {

@@ -52,7 +52,13 @@
     "prember": "^1.0.4",
     "qunit-dom": "^1.2.0"
   },
+  "resolutions": {
+    "fastboot": "^3.1.0"
+  },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-fetch": "^8.0.1"
   }
 }

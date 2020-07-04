@@ -29,8 +29,13 @@ module.exports = function(environment) {
 
     blog: {
       title: 'billybonks.dev',
-      description: 'Demo site for empress-blog-dawn-template',
+      description: 'Welcome to my blog about all the ends of software development',
       coverImage: "https://avatars0.githubusercontent.com/u/1640136?s=400&u=108db0d2230b8d387e7abaf944465a0bc230def8&v=4",
+      navigation: [{
+        label: 'About',
+        route: 'page',
+        id: 'billybonks'
+      }]
     },
 
     'responsive-image': {

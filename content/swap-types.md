@@ -1,12 +1,12 @@
 ---
-title: FP Swap Stratergies
-image: /images/advanced.jpg
+title: Arc buddies
+image: https://foeen.innogamescdn.com/assets/city/buildings/X_SS_FutureEra_Landmark1.png
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - billybonks
 date: Fri Dec 25 2020 10:06:20 GMT+0800 (Singapore Standard Time)
 tags:
   - forge-of-empires

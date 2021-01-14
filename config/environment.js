@@ -28,9 +28,9 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'billybonks.dev',
-      description: 'Welcome to my blog about all the ends of software development',
-      coverImage: "https://avatars0.githubusercontent.com/u/1640136?s=400&u=108db0d2230b8d387e7abaf944465a0bc230def8&v=4",
+      title: 'Puppet Masters',
+      description: 'Official blog for puppet masters guild in forge of empires',
+      coverImage: "https://foeen.innogamescdn.com/assets/shared/clanflags/premium_flag_2.jpg",
       navigation: [{
         label: 'About',
         route: 'page',

@@ -13,9 +13,9 @@ tags:
 ---
 # Guild Rules
   * [1.9 thread](#1.9)
-  * [Swap thread](#abcd)
-  * [Communication](#abcd)
-  * [Minimum Requirements](#abcd)
+  * [Swap thread](#swap)
+  * [Communication](#communication)
+  * [Minimum Requirements](#req)
 
 ## <a name="1.9"></a> 1.9 Thread
 
@@ -55,3 +55,18 @@ Player B Arc P3(371)
 Player C CDM P2 (285)
 Player A CF P2(157) P1(314)
 ```
+
+## <a name="communication"></a> swap
+
+todo
+
+## <a name="communication"></a> Communication
+
+We believe in tolerance, respect, inclusion and hard work. We’ve built a tremendously impressive community of good people, and our goal is to continue growing along the same trajectory. Any disrespectful behaviour will result with a boot
+
+
+## <a name="req"></a> Minimum Requirements
+
+1. 32 encounters in GE
+2. 50 points in GBG negotiations count as 2
+3. Actively or have a plan to work on ARC, unless it is complete
